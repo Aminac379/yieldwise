@@ -1,0 +1,253 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E2E2E2;
+}
+
+.header{
+    display: flex;
+    width: 1200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.arrow-left{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.arrow-left img {
+    width: 30px;
+    height: 30px;
+    margin-inline: 25px;
+    margin-block: 3px;
+}
+
+.text{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.menu{
+    width: 100px;
+    height: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+}
+
+.menu img {
+    width: 50px;
+    height: 30px;
+    margin-inline: 25px;
+    margin-block: 3px;
+}
+
+.leave-community-btn{
+    display: flex;
+    margin-left: 1100px;
+    border: 1px solid black;
+    width: 150px;
+    height: 40px;
+    margin-block: 20px;
+}
+
+.searchbar{
+    display: flex;
+    border: 1px solid black;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-icon2{
+    width: 30px;
+    height: 30px;
+    margin-block: 10px;
+    margin-left: 50px;
+}
+
+.search-text{
+    margin-block: 10px;
+    margin-left: 10px;
+    color: #755F4D;
+}
+
+.block{
+    border: 1px solid black;
+    width: 1293px;
+    height: 2012px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 40px;
+    
+}
+
+.social-media-handle{
+    width: 1200px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.user-profile-picture img{
+    width: 50px;
+    height: 50px;
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    margin-block: 10px;
+}
+
+.vector img{
+    width: 50px;
+    height: 30px;
+    margin-left: 840px;
+}
+
+.username{
+    margin-left: 40px;
+}
+
+.paragraph{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 30px;
+    font-size: 36px;
+    color: #755F4D;
+}
+
+.image{
+    width: 1175px;
+    height: 347px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.image2{
+    display: flex;
+    flex-direction: row;
+}
+.dp{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+    position: relative;
+    left: auto;
+    
+}
+
+.display-picture1{
+    width: 72px;
+    height: 73px;
+}
+
+.display-picture2{
+    width: 72px;
+    height: 73px;
+    position: relative;
+    right: 30px;
+}
+
+.display-picture3{
+    width: 72px;
+    height: 73px;
+    position: relative;
+    right: 50px;
+}
+
+.number-of-comments{
+    margin-top: 20px;
+}
+
+.social-media-engagement{
+    display: flex;
+    justify-content: space-around;
+    margin-block: 10px;
+}
+
+.comments{
+    display: flex;
+}
+
+.commenticon-text img{
+    width: 25px;
+    height: 25px;
+}
+
+.share{
+    display: flex;
+}
+
+.share-icon img{
+    width: 25px;
+    height: 25px;
+}
+
+.number-of-engagement{
+    display: flex;
+    margin-left: 750px;
+    
+}
+
+.Ellipse{
+    width: 13px;
+    height: 14px;
+}
+
+.images2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.number-of-people-engaged{
+    margin-block: 20px;
+}
+
+.user-profile-details{
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.lady-picture img{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+
+.menu2 img{
+    width: 50px;
+    height: 30px;
+    margin-left: 900px;
+}
+
+.username2{
+    margin-left: 40px;
+}
+
+.paragraph-text{
+    font-size: 36px;
+    color: #755F4D;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
